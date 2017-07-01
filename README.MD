@@ -126,3 +126,12 @@ git remote -v
 
 
 git checkout
+
+## 克隆
+
+
+git clone 别人的地址  默认赠送一个地址,附带远程仓库地址,不停的pull
+
+
+git pull origin master
+
